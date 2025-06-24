@@ -1,0 +1,29 @@
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-color: darkblue;
+}
+.titlebar{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px;
+  text-align: center;
+  
+  
+
+}
+.container div{
+   color: white;
+    width: 200px;
+    margin: 20px;
+    flex-basis: 20%;
+    
+}
